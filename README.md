@@ -10,3 +10,5 @@
 # A downside of this technique is that it can have a high variance. This means that differences in the training and test dataset can result in meaningful differences in the estimate of accuracy.
 
 # In the example  we split the data Pima Indians dataset into 67%/33% split for training and test and evaluate the accuracy of a Logistic Regression model.
+
+![image](https://github.com/mucheru/machineLearningEvaluation/assets/13763343/a7965dea-ff9a-4db8-b623-1892de545125)
